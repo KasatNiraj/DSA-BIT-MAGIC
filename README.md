@@ -1,2 +1,2 @@
 # DSA-BIT-MAGIC
-BIT-Magic Practice Problems
+Contains DSA Bit-Magic codes.. Contains Codes for completed functions only
